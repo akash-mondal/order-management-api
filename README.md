@@ -32,7 +32,7 @@ This API provides a robust backend for managing orders, invoices, and payments. 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/order-management-api.git
+   git clone https://github.com/akash-mondal/order-management-api.git
    cd order-management-api
    ```
 
