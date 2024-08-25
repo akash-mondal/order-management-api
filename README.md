@@ -1,6 +1,4 @@
-Here's a comprehensive README.md for your GitHub repository:
 
-```markdown
 # Order Management API
 
 This API provides a robust backend for managing orders, invoices, and payments. It's built with Node.js, Express, and MongoDB, and is designed for easy deployment on Vercel.
